@@ -20,8 +20,7 @@ Aplicativo mobile de Pokédex construído com **React Native** e **Expo**, com n
 ## 👥 Integrantes
 
 - **Weverthon Vaz Machado**
-- **Victor Hugo Dias Barroso
-**
+- **Victor Hugo Dias Barroso**
 
 ---
 
