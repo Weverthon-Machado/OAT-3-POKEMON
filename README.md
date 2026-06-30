@@ -19,8 +19,8 @@ Aplicativo mobile de Pokédex construído com **React Native** e **Expo**, com n
 
 ## 👥 Integrantes
 
-- **[Nome do Integrante 1](https://github.com/usuario1)**
-- **[Nome do Integrante 2](https://github.com/usuario2)**
+- **[Nome do Integrante 1](Weverthon Vaz Machado)**
+- **[Nome do Integrante 2]()**
 
 ---
 
